@@ -34,3 +34,7 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ .image-outline{
+   box-shadow: 10px 10px 5px grey
+ }
