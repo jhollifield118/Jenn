@@ -39,3 +39,29 @@ added to the button in the index html file as well.*/
  .image-outline{
    box-shadow: 10px 10px 5px grey
  }
+
+ .post .content{
+   text-align: left;
+ }
+
+ h1,h2,h3,h4,h5,h6{
+   font-family: Archer;
+   
+   @font-face {
+    font-family: 'Archer-Semibold';
+    src: url('fonts/archer-semibold-pro.eot');
+    src: url('fonts/archer-semibold-pro.eot?#iefix') format('embedded-opentype'),
+             url('fonts/archer-semibold-pro.woff') format('woff'),
+             url('fonts/archer-semibold-pro.ttf') format('truetype'),
+             url('fonts/archer-semibold-pro.svg#archer-semibold-pro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+  font-family: Helvetica;
+}
+
+ .image-display{
+ box-shadow: 50px 50px 0px lightskyblue;
+ }
