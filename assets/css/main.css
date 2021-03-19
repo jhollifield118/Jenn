@@ -2898,7 +2898,7 @@ take precedence the ones in this file. */
 				.wrapper.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					color: lightskyblue !important;
 				}
 
 					.wrapper.style2 input[type="submit"].alt:hover,
@@ -2930,12 +2930,12 @@ take precedence the ones in this file. */
 				.wrapper.style2 input[type="button"].special,
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
-					background-color: #3498db;
+					background-color: lightskyblue;
 					color: #fff !important;
 				}
 
 			.wrapper.style2 label {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.wrapper.style2 input[type="text"],
@@ -2952,8 +2952,8 @@ take precedence the ones in this file. */
 				.wrapper.style2 input[type="email"]:focus,
 				.wrapper.style2 select:focus,
 				.wrapper.style2 textarea:focus {
-					border-color: #3498db;
-					box-shadow: 0 0 0 1px #3498db;
+					border-color: lightskyblue;
+					box-shadow: 0 0 0 1px lightskyblue;
 				}
 
 			.wrapper.style2 .select-wrapper:before {
@@ -2973,15 +2973,15 @@ take precedence the ones in this file. */
 
 			.wrapper.style2 input[type="checkbox"]:checked + label:before,
 			.wrapper.style2 input[type="radio"]:checked + label:before {
-				background-color: #3498db;
-				border-color: #3498db;
+				background-color: lightskyblue;
+				border-color: lightskyblue;
 				color: #fff;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
 			.wrapper.style2 input[type="radio"]:focus + label:before {
-				border-color: #3498db;
-				box-shadow: 0 0 0 1px #3498db;
+				border-color: lightskyblue;
+				box-shadow: 0 0 0 1px lightskyblue;
 			}
 
 			.wrapper.style2 ::-webkit-input-placeholder {
@@ -3021,7 +3021,7 @@ take precedence the ones in this file. */
 				}
 
 			.wrapper.style2 table th {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.wrapper.style2 table thead {
@@ -3410,7 +3410,7 @@ take precedence the ones in this file. */
 			#banner button.special,
 			#banner .button.special {
 				background-color: #fff;
-				color: #3498db !important;
+				color: lightskyblue !important;
 			}
 
 		#banner label {
@@ -3454,7 +3454,7 @@ take precedence the ones in this file. */
 		#banner input[type="radio"]:checked + label:before {
 			background-color: #fff;
 			border-color: #fff;
-			color: #3498db;
+			color: lightskyblue;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
@@ -3979,19 +3979,19 @@ take precedence the ones in this file. */
 		}
 
 			.post.style2 input, .post.style2 select, .post.style2 textarea {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.post.style2 a {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.post.style2 strong, .post.style2 b {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.post.style2 h1, .post.style2 h2, .post.style2 h3, .post.style2 h4, .post.style2 h5, .post.style2 h6 {
-				color: #3498db;
+				color: lightskyblue;
 			}
 
 			.post.style2 blockquote {
@@ -4039,7 +4039,7 @@ take precedence the ones in this file. */
 				.post.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					color: lightskyblue !important;
 				}
 
 					.post.style2 input[type="submit"].alt:hover,
@@ -4071,12 +4071,12 @@ take precedence the ones in this file. */
 				.post.style2 input[type="button"].special,
 				.post.style2 button.special,
 				.post.style2 .button.special {
-					background-color: #3498db;
+					background-color: lightskyblue;
 					color: #fff !important;
 				}
 
 			.post.style2.invert {
-				background-color: #3498db;
+				background-color: lightskyblue;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -4174,11 +4174,11 @@ take precedence the ones in this file. */
 					.post.style2.invert button.special,
 					.post.style2.invert .button.special {
 						background-color: #fff;
-						color: #3498db !important;
+						color: lightskyblue !important;
 					}
 
 				.post.style2.invert .content {
-					background: #3498db;
+					background: lightskyblue;
 				}
 
 					.post.style2.invert .content header p {
@@ -4200,7 +4200,7 @@ take precedence the ones in this file. */
 						}
 
 				.post.style2.invert .image {
-					background-color: #3498db;
+					background-color: lightskyblue;
 				}
 
 		.post.style3 {
