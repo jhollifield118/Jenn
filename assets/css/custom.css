@@ -27,7 +27,7 @@ added to the button in the index html file as well.*/
 }
 
 #banner .button.redbtn:hover {
-  background-color: lightgoldenrodyellow;
+  background-color: lightgray;
 }
 
 
@@ -65,4 +65,8 @@ p{
 
  .image-display{
  box-shadow: 0px 0px 15px lightskyblue;
+ }
+
+ h3 {
+   color:rgba(64,65,66);
  }
