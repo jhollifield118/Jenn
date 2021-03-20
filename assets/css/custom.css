@@ -76,6 +76,21 @@ p{
   box-shadow: none;
 }
 
+ h4 {
+color: darkgrey;
+}
+
+ h1 {
+font-family: 'Helvetica';
+ }
+
+/*#banner .button-alt-fit {
+  background-color: darkgrey;
+  box-shadow: none;
+  position: 
+
+}
+
 #banner .button-fit:hover {
   background-color: skyblue;
-}
+}*/
