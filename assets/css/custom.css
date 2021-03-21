@@ -81,7 +81,14 @@ color: darkgrey;
 }
 
  h1 {
-font-family: 'Helvetica';
+font-family: 'Archer-Semibold';
+src: url('fonts/archer-semibold-pro.eot');
+src: url('fonts/archer-semibold-pro.eot?#iefix') format('embedded-opentype'),
+         url('fonts/archer-semibold-pro.woff') format('woff'),
+         url('fonts/archer-semibold-pro.ttf') format('truetype'),
+         url('fonts/archer-semibold-pro.svg#archer-semibold-pro') format('svg');
+font-weight: normal;
+font-style: normal;
  }
 
 /*#banner .button-alt-fit {
